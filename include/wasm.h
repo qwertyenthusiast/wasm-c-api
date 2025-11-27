@@ -100,7 +100,7 @@ typedef wasm_byte_vec_t wasm_name_t;
 #define wasm_name wasm_byte_vec
 #define wasm_name_new wasm_byte_vec_new
 #define wasm_name_new_empty wasm_byte_vec_new_empty
-#define wasm_name_new_new_uninitialized wasm_byte_vec_new_uninitialized
+#define wasm_name_new_uninitialized wasm_byte_vec_new_uninitialized
 #define wasm_name_copy wasm_byte_vec_copy
 #define wasm_name_delete wasm_byte_vec_delete
 
